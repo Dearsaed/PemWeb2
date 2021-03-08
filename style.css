@@ -1,0 +1,46 @@
+*{
+  font-family: comic;
+  background-color: skyblue;
+}
+
+a:link{
+  text-decoration: underline;
+}
+a:visited{
+  text-decoration: line-through;
+}
+a:active{
+  text-decoration: line-through;
+}
+a:hover{
+  text-decoration:line-through;
+  color: pink;
+  font-style: italic;
+  background-color: grey;
+}
+
+.fotoProfil{
+  height: 10px;
+  width: 10px;
+}
+img{
+  align:"center"
+  height: auto;
+  width: 200px;
+  border-radius: 200px;
+}
+
+.tabel{
+  font-size: 18px;
+  align:"center";
+  color: blue;
+}
+
+h1{
+  text-align: center;
+  color: red;
+}
+
+#justify{
+  text-align: justify;
+}
